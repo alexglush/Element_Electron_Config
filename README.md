@@ -1,5 +1,3 @@
-# Element_Electron_Config
-
 DATASETS
 Datasets include different representations of electron configurations that are shown in Table 2, (b), (7x4) images, and Tables 5, (a) and (b) of the "AI Discovering a Coordinate System of Chemical Elements: 
 Dual Representation by Variational Autoencoders" paper
@@ -15,3 +13,5 @@ CITATION
   year = {2020},  
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
+
+ 
